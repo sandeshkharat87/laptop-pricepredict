@@ -1,5 +1,5 @@
-# laptop-pricepredict
-Website to predict the laptop price based on the specifications
+# Laptop Price Predictor  
+Website to predict the laptop price based on its specifications
 
 ### Deployed WebApp link
 https://wpnx-laptop.herokuapp.com/
