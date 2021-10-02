@@ -14,5 +14,3 @@ https://wpnx-laptop.herokuapp.com/
 ### How to run webiste Locally
 #### `$ streamlit run app.py`
 
-#### ScreenShots
-
