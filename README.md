@@ -6,10 +6,10 @@ https://wpnx-laptop.herokuapp.com/
 
 
 ### How to install Dependencies
-#### pip install -r requirements.txt
+#### `$ pip install -r requirements.txt`
 
 ### How to run webiste Locally
-#### streamlit run app.py
+#### `$ streamlit run app.py`
 
 #### ScreenShots
 
