@@ -6,9 +6,9 @@ import numpy as np
 import streamlit as st
 
 
-# df = pickle.load(open('LPTP_DF.pkl', 'rb'))
-df = joblib.load('LPTP_DF.pkl')
-model = joblib.load('LPTP.pkl')
+
+df = joblib.load('models/LPTP_DF.pkl')
+model = joblib.load('models/LPTP.pkl')
 # Index(['company', 'inches', 'new_screenresolution', 'new_clockspeed',
 # 'new_cpu', 'new_ram', 'HDD', 'SSD', 'new_GPU', 'OS', 'new_weight'],
 # dtype='object')
